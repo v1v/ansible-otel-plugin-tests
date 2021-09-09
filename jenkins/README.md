@@ -1,0 +1,1 @@
+Originally from https://github.com/v1v/jenkins-pipeline-library-skeleton/tree/master/local
